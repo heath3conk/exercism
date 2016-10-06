@@ -1,4 +1,8 @@
-# Interesting JS functions I hadn't used much before:
+# Interesting stuff in JS I hadn't used much before:
+
+## anagram
+Allowing for arguments as an array or multiple strings
+(Ruby makes this challenge so easy! No == for arrays in JS)
 
 ## beer-song
 *concat* for strings - didn't work, need to ask someone why
