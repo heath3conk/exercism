@@ -1,4 +1,4 @@
-# Interesting stuff in JS I hadn't used much before:
+# Reminder of techniques used in these exercises:
 
 ## anagram
 Allowing for arguments as an array or multiple strings
