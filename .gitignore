@@ -1,0 +1,8 @@
+*.class
+*.bin
+*.idx
+*.properties
+*.gradle
+
+.idea*
+build
