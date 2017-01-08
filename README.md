@@ -1,4 +1,5 @@
-# Reminder of techniques used in these exercises:
+# Reminder of techniques used in these exercises
+# Javascript:
 
 ## anagram
 Allowing for arguments as an array or multiple strings
@@ -30,3 +31,8 @@ regex to split a string on whitespace or '-'
 
 ## word-count 
 *Object.hasOwnProperty(prop)*
+
+# Java:
+
+## etl
+using *forEach* with *->* (lambdas?) to iterate through both a Map and List
